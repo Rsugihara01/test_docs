@@ -11,6 +11,7 @@ Welcome to test reisugi's documentation!
    :caption: Contents:
 
    main
+   test_ipynb
 
 
 
