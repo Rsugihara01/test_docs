@@ -11,7 +11,7 @@ Welcome to test reisugi's documentation!
    :caption: Contents:
 
    main
-   test_ipynbfolder
+   test_ipynbfolder/index
 
 
 
